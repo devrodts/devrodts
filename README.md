@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hello, I'm Rodolfo (DevRodts) 👋
 
 I'm a **Full Cycle Developer** with a career marked by continuous evolution—from my early projects to my current solutions. My expertise spans various technologies, with a strong focus on the languages and frameworks that drive my work. Take a look at an overview of my skills and the projects that define my journey:
@@ -45,20 +44,19 @@ Additionally, I have hands-on experience with:
 
 ## 🚀 Portfolio & Repositories
 
-### [devrodts](https://github.com/devrodts)
+### [devrodts](https://github.com/devrodts) (My new Github)
 - Projects with a strong focus on Java, TypeScript, and C#. Examples include **DOTNET_REACT_MF_ECOMMERCE_TEMPLATE**, **TDD_DDD_SPRING_REACT_TEMPLATE**, **SPRING_API**, **REACT_CLEAN_TDD**, and **MICRO_SERVICES_SPRING**.
 
-### [rof-code](https://github.com/rof-code?tab=repositories)
+### [developedbyrod](https://github.com/developedbyrod?tab=repositories) (old)
+- A diverse range of projects using TypeScript, Java, and JavaScript, including RESTful APIs (**SPRING_REST_API**, **SPRING_3_API**), e-commerce templates, and Web3 initiatives like **TS-NODE_API** and **SOCIAL_NATIVE_APP**.
+  
+### [rof-code](https://github.com/rof-code?tab=repositories) (very very old)
 - A focus on JavaScript projects, featuring dynamic and innovative applications such as **inifinityscroll-postfilter**, **Opensea-blockchain-clone**, and **react-nf-clone**.
 
-### [developedbyrod](https://github.com/developedbyrod?tab=repositories)
-- A diverse range of projects using TypeScript, Java, and JavaScript, including RESTful APIs (**SPRING_REST_API**, **SPRING_3_API**), e-commerce templates, and Web3 initiatives like **TS-NODE_API** and **SOCIAL_NATIVE_APP**.
 
 ---
 
 ## 🤝 Connect with Me
 
 - [GitHub - devrodts](https://github.com/devrodts)
-- [GitHub - rof-code](https://github.com/rof-code?tab=repositories)
-- [GitHub - developedbyrod](https://github.com/developedbyrod?tab=repositories)
 - [LinkedIn](https://www.linkedin.com/in/rodolfo-rodrigues-980319345)
