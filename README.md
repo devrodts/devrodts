@@ -21,23 +21,23 @@ Additionally, I have hands-on experience with:
 ## 🔙 Backend
 
 - **Java (Senior):** Developing RESTful APIs, microservices, and enterprise-grade applications (Java 8, 11, 17, 21)  
-- **C#:** Building robust and scalable applications  
+- **C#: (Mid-Level)** Building robust and scalable applications (Mid-Level)
 - **Node.js (with TypeScript/JavaScript Senior):** Using frameworks like Express.js and Nest.js  
-- **Python:** Crafting solutions with Flask (Mid-level)  
-- **PHP:** Creating dynamic applications (Mid-level)  
-- **Spring:** Implementing modern APIs and services
+- **Python: (Mid-Level)** Crafting solutions with Flask (Mid-level)  
+- **PHP: (Mid-Level)** Versions 4, 5 and 7. Creating dynamic applications (Mid-level)  
+- **Spring:(Senior)** Implementing modern APIs and services (Senior)
 
 ---
 
 ## 🔜 Frontend
 
-- **HTML5 & CSS3:** Structuring and designing responsive layouts  
-- **JavaScript (Senior):** Building rich, interactive user interfaces  
+- **HTML5 & CSS3: (Senior)** Structuring and designing responsive layouts  (Senior)
+- **JavaScript ES6+ (Senior):** Building rich, interactive user interfaces  
 - **Frameworks & Libraries:**  
-  - **React & Next.js:** Developing dynamic interfaces with server-side rendering  
-  - **Vue 3:** Creating progressive web applications  
-  - **React Native:** Developing native mobile applications  
-- **Styling Tools:**  
+  - **React & Next.js: (Senior)** Developing dynamic interfaces with server-side rendering 
+  - **Vue 3 (Mid-Level) :** Creating progressive web applications
+  - **React Native: (Senior)** Developing native mobile applications
+- **Styling Tools: (Senior)**  
   - **Bootstrap, TailwindCSS, SASS/LESS, Styled Components**
 
 ---
