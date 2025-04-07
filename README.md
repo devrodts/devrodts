@@ -8,8 +8,8 @@ I'm a **Full Cycle Developer** with a career marked by continuous evolution—fr
 
 - **Java:** (Senior)  
 - **TypeScript:** Senior)  
-- **JavaScript:** (Senior)  
-- **C#:** 6% (Mid-Level)
+- **JavaScript:** (Senior)
+- **C#:** (Mid-Level)
 
 Additionally, I have hands-on experience with:
 - **Python & PHP:** Mid-level  
