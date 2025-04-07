@@ -4,12 +4,12 @@ I'm a **Full Cycle Developer** with a career marked by continuous evolution—fr
 
 ---
 
-## 📊 Language Distribution (Based on Pinned Repositories)
+## 📊 Programming Languages
 
-- **Java:** 31% (Senior)  
-- **TypeScript:** 31% (Senior)  
-- **JavaScript:** 31% (Senior)  
-- **C#:** 6%
+- **Java:** (Senior)  
+- **TypeScript:** Senior)  
+- **JavaScript:** (Senior)  
+- **C#:** 6% (Mid-Level)
 
 Additionally, I have hands-on experience with:
 - **Python & PHP:** Mid-level  
