@@ -7,8 +7,7 @@ I'm a **Full Cycle Developer** with a career marked by continuous evolution—fr
 ## 📊 Programming Languages
 
 - **Java:** (Senior)  
-- **TypeScript:** Senior)  
-- **JavaScript:** (Senior)
+- **TypeScript / Javascript:** Senior)
 - **C#:** (Mid-Level)
 
 Additionally, I have hands-on experience with:
