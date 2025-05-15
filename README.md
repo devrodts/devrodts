@@ -1,4 +1,4 @@
-# Hello, I'm Rodolfo (DevRodts) 👋
+# What's up Ninja? 
 
 I'm a **Full Cycle Developer** with a career marked by continuous evolution—from my early projects to my current solutions. My expertise spans various technologies, with a strong focus on the languages and frameworks that drive my work. Take a look at an overview of my skills and the projects that define my journey:
 
@@ -6,7 +6,8 @@ I'm a **Full Cycle Developer** with a career marked by continuous evolution—fr
 
 ## 📊 Programming Languages
 
-- **Java:** (Senior)  
+- **Java:** (Senior)
+- **Rust:**: Mid-Level
 - **TypeScript / Javascript:** Senior)
 - **C#:** (Mid-Level)
 
