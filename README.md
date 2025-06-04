@@ -5,12 +5,11 @@ with a career marked by continuous evolution—from my early projects to my curr
 Passion for Security and Developoment, scared with the collapse of the nature.
 Dedicated to create disruptive solutions to a New Society.
 
----
 
 ## 📊 Programming Languages
 
+- **Rust:**
 - **Java:** 
-- **Rust:*
 - **TypeScript / Javascript:**
 - **Python** 
 - **BashScript:**
