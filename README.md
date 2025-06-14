@@ -8,13 +8,13 @@ Dedicated to create disruptive solutions to a New Society.
 
 ## 📊 Programming Languages
 
-- **Rust:**
-- **Java:** 
-- **TypeScript / Javascript:**
+- **Rust**
+- **Java** 
+- **TypeScript / Javascript**
 - **Python** 
-- **BashScript:**
-- **Blockchain:**
-- **Web3:** Projects focused on blockchain and decentralized applications
+- **BashScript**
+- **Blockchain**
+- **Web3:**
 
 ---
 
