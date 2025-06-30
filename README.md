@@ -1,3 +1,7 @@
+#### I'm building software for free, to believe in a better world, if you have any value to help me to continue, please use this btc address to help me stay online:
+
+#### bc1qruucqnqd6sm2ejqhst4ze446cg3v5qgu06xl4a
+
 # Shapping a New Reality Paradigm 
 
 I'm just a process running in this world, to improve our lives.
