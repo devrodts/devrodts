@@ -6,13 +6,14 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqYWJ2eG9ydHFhN3NlN2VtZzV5dDl2cG5pMDRsOGh5dHJ2dHp0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbxzZzdQd0y8g/giphy.gif" width="180">
+  <img src="https://media.tenor.com/PZgBFzztqD4AAAAC/curse-mark-sasuke.gif" width="180">
   <h1>🐺 Shinobi Full-Stack Developer</h1>
   <p>Transformando chakra em código | Selando demônios em containers</p>
   
   ![Jutsu Version](https://img.shields.io/badge/Chakra%20Release-Sage%20Mode-brightgreen)
   [![Sennin Mode](https://img.shields.io/badge/Senjutsu-Master-orange)](https://github.com/devrodts)
 </div>
+
 
 ## 🔮 Técnicas Proibidas (Skills)
 
