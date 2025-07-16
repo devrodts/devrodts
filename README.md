@@ -1,5 +1,6 @@
 <div align="center">
-  <p>Estou construindo software de código aberto por acreditar em um mundo melhor. Se você puder me ajudar a continuar online, qualquer valor é bem-vindo.</p>
+  <p>Estou construindo software de código aberto por acreditar em um mundo melhor. 
+    Se você puder me ajudar a continuar online, qualquer valor é bem-vindo.</p>
   <p><strong>BTC:</strong> bc1qruucqnqd6sm2ejqhst4ze446cg3v5qgu06xl4a</p>
 </div>
 
