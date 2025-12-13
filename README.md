@@ -1,10 +1,3 @@
-<div align="center">
-  <p>Estou construindo software de código aberto por acreditar em um mundo melhor. 
-    Se você puder me ajudar a continuar online, qualquer valor é bem-vindo.</p>
-
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://media.tenor.com/PZgBFzztqD4AAAAC/curse-mark-sasuke.gif" width="180">
